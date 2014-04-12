@@ -1,0 +1,41 @@
+License agreement for Your Extended Attribute Helper, YEAH.
+===========================================================
+
+
+YEAH, its compiled library, source code, and documentation, is
+licensed to you under the following license agreement. Use or
+distribution of YEAH constitutes your acceptance of that
+agreement.
+
+YEAH, the compiled library, source code and, documentation, is
+the copyrighted material of Bj”rn Fahller.
+
+Under this licence, you may:
+
+1. Redistribute YEAH in any way for and shape, suitable to you,
+as long as the original contents remain unchanged and that the
+redistribution is free (fees to cover media and transfer costs
+are allowed.)
+
+2. Use YEAH, in your applications, be they free, shareware,
+educational or commercial.
+
+3. Write and publish additional classes to YEAH, as long as
+those additional classes are published with the same licence
+constraints as YEAH.
+
+4. Make proprietary changes to YEAH, provided you do not
+redistribute YEAH with those changes.
+
+Warranty.
+---------
+
+BECAUSE YEAH IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+FOR THE PROGRAM, TO THE EXTENT PERMITTED BY LAW. USE YEAH AT
+YOUR OWN RISK.
+
+IN NO EVENT SHALL BJ™RN FAHLLER BE HELD LIABLE FOR ANY DAMAGE
+DUE TO THE USE, ABUSE, OR INABILITY TO USE, YEAH.
+
+
+
